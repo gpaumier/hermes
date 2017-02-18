@@ -1,0 +1,3 @@
+graft hermes/templates
+graft hermes/static
+include hermes/schema.sql
